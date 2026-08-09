@@ -1,0 +1,2 @@
+# sevimli-narsalarim-o
+zor
