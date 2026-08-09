@@ -1,2 +1,51 @@
-# sevimli-narsalarim-o
-zor
+[Uploading sev<style>
+  body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+    text-align: center;
+  }
+
+  .kartalar {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+
+  .karta {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+
+  .karta img {
+    width: 100%;
+    border-radius: 8px;
+  }
+</style>
+
+<h1>Mening sevimli narsalarim</h1>
+
+<div class="kartalar">
+  <div class="karta">
+    <img src="https://picsum.photos/200?1" alt="Futbol">
+    <h3>kompyuter oynash</h3>
+    <p>men video oyinlarni yaxshi koraman</p>
+  </div>
+
+  <div class="karta">
+    <img src="https://picsum.photos/200?2" alt="Dasturlash">
+    <h3>Dasturlash</h3>
+    <p>HTML va CSS o'rganyapman.</p>
+  </div>
+
+  <div class="karta">
+    <img src="https://picsum.photos/200?3" alt="O'yinlar">
+    <h3>O'yinlar</h3>
+    <p>Bo'sh vaqtimda o'ynayman.</p>
+  </div>
+</div>imli narsalarim.html…]()
+
